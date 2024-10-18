@@ -1,4 +1,4 @@
-# DERMATO
+# DERMATO STUDIO PLATEFORM
 
 <div align="center">
 
